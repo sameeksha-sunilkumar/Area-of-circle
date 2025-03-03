@@ -4,7 +4,7 @@ import java.lang.Math;
 public static void AreaOfCircle(Strings args[])
 {
   int r=5;
-double area = MAth.PI * Math.pow(r,2);
+double area = Math.PI * Math.pow(r,2);
 System.out.println(area);
 }
 }
